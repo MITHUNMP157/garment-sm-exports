@@ -1,0 +1,17 @@
+/* .export-quality {
+  background-image: url(./img2/expokints-branding-banner.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-attachment: scroll;
+  height: ;
+} */
+
+.section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.section-header {
+  flex-shrink: 2;
+}
